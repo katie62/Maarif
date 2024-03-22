@@ -1,0 +1,130 @@
+.homepage{
+   background-color: whitesmoke;
+   width: 100%;
+}
+
+.cover{
+    width: 100vw;
+    margin-bottom: 0vw;
+    
+}
+
+.logo1{
+    width: 11vw;
+    margin: 1vw;
+    filter: drop-shadow(5px 6px 6px #464545);
+    
+}
+
+.logo2{
+    width: 10.5vw;
+    margin: 1vw;
+    filter: drop-shadow(6px 5px 6px #464545);
+    
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vw;
+   
+}
+.and{
+  height: 3vw;
+  margin-top: 4vw;
+  margin-right: 0.5vw;
+  filter: drop-shadow(5px 5px 5px #464545)
+}
+
+
+
+
+.hr{
+    margin-top: 0vw;
+}
+
+.wrapper {
+    height: 14vh;
+    /*This part is important for centering*/
+    display: grid;
+    place-items: center;
+  }
+  
+  .slogan {
+    width: 42.5vw;
+    animation: typing 6s steps(40), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: "Inconsolata", monospace;
+    font-weight: bolder;
+    font-size: 2em;
+    color:#050625;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+
+  .head{
+    margin: 1vw;
+    color: #050625;
+    font-family: "Anta", sans-serif;
+}
+
+.para {
+  margin: 0vw;
+  width: 50vw;
+  font-family: 'Poppins', sans-serif;
+  font-size: large;
+  
+}
+
+.info{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+
+.line{
+  width: 15vw;
+  margin: 0vw;
+ 
+}
+
+.line2{
+  width: 15vw;
+  margin: 0vw;
+  
+}
+
+.cizgi{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.row{
+  margin: 0vw;
+}
+
+.btn1{
+  display: flex;
+  justify-content: center;
+  margin: 0vw;
+  
+}
+
+.btnimg{
+  margin: 0vw;
+  padding: 0vw;
+  width: 50vw;
+}

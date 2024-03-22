@@ -1,0 +1,68 @@
+.navbarım{
+    height: 6rem;
+    width: 100vw;
+    max-width: 100rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgba(255, 255, 255, 0.726);
+    padding: 0rem;
+
+}
+
+.logo{
+    object-fit: cover;
+    height: 3rem;
+    width: 11rem;
+    padding: 0%;
+    margin: 1rem;
+    
+    
+}
+
+.desktopMenuListItem{
+    margin: 1rem;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    align-items: center;
+    font-size: larger;
+    font-family: "Anta", sans-serif;
+   
+    
+
+}
+
+.desktopMenuListItem:hover{
+    color: #050625;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid #050625;
+    text-decoration: none;
+}
+
+.desktopMenuBtn{
+    background:#050625;
+    color: white;
+    border: none;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
+    font-family: "Anta", sans-serif;
+    font-size: large;
+    font-weight: 300;
+    height: 2.5rem;
+    width: 7rem;
+    margin: 2rem;
+    margin-right: 3rem;
+    
+
+}
+

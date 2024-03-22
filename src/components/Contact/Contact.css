@@ -1,0 +1,65 @@
+.logolar{
+    display: flex;
+    justify-content: center;
+}
+
+.linkedin{
+    width: 15vw;
+    margin-bottom: 3vw;
+    margin: 2vw;
+    
+}
+
+.instagram{
+    width: 15vw;
+    margin-bottom: 3vw;
+    margin: 2vw;
+}
+
+.discord{
+    width: 15vw;
+    padding: 0vw;
+    margin: 0vw;
+    margin-bottom: 4vw;
+    margin: 2vw;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1vw;
+    
+
+    
+}
+
+.youtube{
+    width: 15vw;
+    margin-bottom: 3vw;
+    margin: 2vw;
+}
+
+.text1{
+    width: 23vw;
+   margin: 0vw;
+   padding: 0vw;
+    
+   
+  }
+  
+  .text12{
+    width: 23vw;
+    margin: 0vw;
+    padding: 0vw;
+  }
+
+  .head{
+    display: flex;
+   justify-content: center;
+   margin: 0vw;
+   padding: 0vw;
+  }
+
+ 
+
+ 

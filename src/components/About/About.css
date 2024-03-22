@@ -1,0 +1,26 @@
+.info{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 2vw;
+    
+
+}
+
+.head{
+    margin: 1vw;
+    color: #050625;
+}
+
+.video{
+    margin: 2vw;
+    border-radius: 2vw;
+    
+}
+
+.para {
+    margin: 1vw;
+    width: 50vw;
+    
+
+}
